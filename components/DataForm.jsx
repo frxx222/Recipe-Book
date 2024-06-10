@@ -4,7 +4,7 @@ import Navbar from "./navbar";
 import MyFavorite from "../pages/myFavorite";
 import './dataForm.css'
 
-const API_URL = 'https://stellar-scone-aa40cd.netlify.app/.netlify/functions/api/';
+const API_URL = 'https://aesthetic-elf-6dbaed.netlify.app/.netlify/functions/api/';
 
 function DataForm() {
     const [data, setData] = useState([]);
