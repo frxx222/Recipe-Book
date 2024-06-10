@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Navbar from "./navbar";
 import MyFavorite from "../pages/myFavorite";
-import './dataForm.css'
+import './DataForm.css'
 
 const API_URL = 'https://aesthetic-elf-6dbaed.netlify.app/.netlify/functions/api/';
 
